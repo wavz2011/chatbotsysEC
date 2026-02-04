@@ -1,0 +1,7 @@
+.env
+node_modules
+sessions
+evolution_instances
+pg_data
+redis_data
+evolution
